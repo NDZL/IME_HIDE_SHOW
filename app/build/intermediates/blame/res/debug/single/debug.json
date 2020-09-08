@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\build\\intermediates\\res\\merged\\debug\\layout_onekey.xml.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\src\\main\\res\\layout\\onekey.xml"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\build\\intermediates\\res\\merged\\debug\\layout_method.xml.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\src\\main\\res\\layout\\method.xml"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\build\\intermediates\\res\\merged\\debug\\layout_numeric.xml.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\src\\main\\res\\layout\\numeric.xml"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\build\\intermediates\\res\\merged\\debug\\xml_method.xml.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\build\\intermediates\\res\\merged\\debug\\layout_preview.xml.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\src\\main\\res\\layout\\preview.xml"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\build\\intermediates\\res\\merged\\debug\\layout_keyboard.xml.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\src\\main\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\build\\intermediates\\res\\merged\\debug\\layout_qwerty.xml.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\src\\main\\res\\layout\\qwerty.xml"
+    },
+    {
+        "merged": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\dev\\AndroidStudioProjects\\VC80XKEYBOARD\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    }
+]
